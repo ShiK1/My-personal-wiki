@@ -1,4 +1,4 @@
-[parrnt](../README.md)
+[上一级](../README.md)
 
 # 研究生的日常生活
 
